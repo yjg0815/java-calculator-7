@@ -10,10 +10,10 @@
 
 1. enterInput : 유저 인풋 받기 
 2. splitString : 유저 인풋에서 구분자 분리 
-    a. hasCustomSpliter : 지정 구분자 있는지 체크
-    b. isValidSpliter :  정해지지 않은 구분자 있는지 체크 
+    1. hasCustomSpliter : 지정 구분자 있는지 체크
+    2. isValidSpliter :  정해지지 않은 구분자 있는지 체크 
 3. changeStringToNumber : 숫자 변환
-    a. isNegativeNumber :  음수 입력 있는지 체크 
-    b. isBigInteger : long type 넘어가는 입력 체크 
+    1. isNegativeNumber :  음수 입력 있는지 체크 
+    2. isBigInteger : long type 넘어가는 입력 체크 
 4. sumNumber : 숫자 더하기 
 5. ouputResult : 결과 출력하기 
